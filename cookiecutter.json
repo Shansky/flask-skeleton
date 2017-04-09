@@ -1,0 +1,17 @@
+{
+  "full_name": "",
+  "email": "",
+  "github_username": "",
+  "project_name": "flask-skeleton",
+  "app_name": "flask_docker",
+  "project_short_description": "A microservice based on flask-restful and docker",
+  "use_mysql": "y",
+  "mysql_version": "5.7",
+  "mysql_host": "flask",
+  "mysql_user": "flask",
+  "mysql_password": "flask",
+  "mysql_root_password": "flask",
+  "mysql_database": "flask",
+  "mysql_port": 3306,
+  "use_postgres": "n"
+}
